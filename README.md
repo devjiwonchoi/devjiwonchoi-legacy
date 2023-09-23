@@ -1,1 +1,1 @@
-![Answered GitHub Discussions](https://answered.vercel.app/api)
+![](https://answered.vercel.app/api?username=devjiwonchoi)
