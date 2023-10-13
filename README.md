@@ -5,3 +5,18 @@
   <img src="https://answered.vercel.app/api?username=devjiwonchoi" alt="Jiwon Choi's Answered Discussions Stat" style="width: 50%" />
 </div>
 
+```js
+const ourLife = life.every((moment) => moment.includes(joy))
+
+expect(ourLife).toBe(true)
+```
+
+```
+PASS  test/hope-u-have-a-great-day.test.ts (0.435 s)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        0.435 s
+Ran all test suites.
+```
