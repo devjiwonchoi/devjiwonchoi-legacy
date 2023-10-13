@@ -5,10 +5,13 @@
   <img src="https://answered.vercel.app/api?username=devjiwonchoi" alt="Jiwon Choi's Answered Discussions Stat" style="width: 50%" />
 </div>
 
-```js
-const ourLife = life.every((moment) => moment.includes(joy))
+<br />
+<br />
 
-expect(ourLife).toBe(true)
+```js
+const hasJoyInLife = life.every((moment) => moment.includes(joy))
+
+expect(hasJoyInLife).toBe(true)
 ```
 
 ```
