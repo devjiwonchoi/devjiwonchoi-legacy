@@ -1,1 +1,4 @@
-Commit Streak Freezed! Wed Feb 28 2024 07:48:44 GMT+0900 (Korean Standard Time)
+
+### What is this?
+
+See https://github.com/devjiwonchoi/vercel-cron-github-streak-freezer
