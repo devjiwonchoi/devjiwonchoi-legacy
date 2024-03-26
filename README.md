@@ -1,4 +1,4 @@
-## Next.js Contributions
+## [Next.js](https://github.com/vercel/next.js) Contributions
 
 > Metrics starting from March 22, 2024
 
